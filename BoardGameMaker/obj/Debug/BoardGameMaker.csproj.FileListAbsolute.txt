@@ -1,0 +1,10 @@
+C:\Users\ander\source\repos\BoardGameMaker\BoardGameMaker\bin\Debug\BoardGameMaker.exe.config
+C:\Users\ander\source\repos\BoardGameMaker\BoardGameMaker\bin\Debug\BoardGameMaker.exe
+C:\Users\ander\source\repos\BoardGameMaker\BoardGameMaker\bin\Debug\BoardGameMaker.pdb
+C:\Users\ander\source\repos\BoardGameMaker\BoardGameMaker\obj\Debug\BoardGameMaker.csprojAssemblyReference.cache
+C:\Users\ander\source\repos\BoardGameMaker\BoardGameMaker\obj\Debug\BoardGameMaker.Form1.resources
+C:\Users\ander\source\repos\BoardGameMaker\BoardGameMaker\obj\Debug\BoardGameMaker.Properties.Resources.resources
+C:\Users\ander\source\repos\BoardGameMaker\BoardGameMaker\obj\Debug\BoardGameMaker.csproj.GenerateResource.cache
+C:\Users\ander\source\repos\BoardGameMaker\BoardGameMaker\obj\Debug\BoardGameMaker.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\BoardGameMaker\BoardGameMaker\obj\Debug\BoardGameMaker.exe
+C:\Users\ander\source\repos\BoardGameMaker\BoardGameMaker\obj\Debug\BoardGameMaker.pdb
